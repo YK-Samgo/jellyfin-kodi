@@ -1,3 +1,4 @@
+<h1 align="center">Note: The commits have been merged into the official code, so you can just use the official release.</h1>
 <h1 align="center">Jellyfin for Kodi</h1>
 <h3 align="center">Part of the <a href="https://jellyfin.org">Jellyfin Project</a></h3>
 
